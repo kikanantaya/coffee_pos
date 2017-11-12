@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\coffee\coffee\bin\Debug\coffee.exe.config
+C:\Users\User\source\repos\coffee\coffee\bin\Debug\coffee.exe
+C:\Users\User\source\repos\coffee\coffee\bin\Debug\coffee.pdb
+C:\Users\User\source\repos\coffee\coffee\obj\Debug\coffee.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\coffee\coffee\obj\Debug\coffee.Form1.resources
+C:\Users\User\source\repos\coffee\coffee\obj\Debug\coffee.Properties.Resources.resources
+C:\Users\User\source\repos\coffee\coffee\obj\Debug\coffee.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\coffee\coffee\obj\Debug\coffee.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\coffee\coffee\obj\Debug\coffee.exe
+C:\Users\User\source\repos\coffee\coffee\obj\Debug\coffee.pdb
